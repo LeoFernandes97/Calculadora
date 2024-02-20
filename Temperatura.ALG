@@ -6,7 +6,7 @@ Inicio
       Escreva ("Qual é a temperatura aqui? ")
       Leia (F)
       C <- (F - 32) / 1.8
-      Escreva ("Portanto, no Brasil está ", C)
+      Escreva ("Portanto, no Brasil está", C)
 
 
 Fimalgoritmo
